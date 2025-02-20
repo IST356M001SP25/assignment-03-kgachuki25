@@ -22,4 +22,5 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+Through this assignment, I learned how to use streamlit to create apps that can accept inputs, like text or files. With this, I also learned
+how to use streamlit with other modules to handle and output data with string parsing. This involved understanding how to handle text and binary data. I had an easier time with this assignment, with the only real issue being figuring out how to handle the file history for the last part. What helped was that since streamlit updates as you write the code, the issues were much more immediately apparent.
